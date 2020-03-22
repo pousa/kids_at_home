@@ -31,3 +31,5 @@ A curated list of activities for kids
 [Lesenspuren](https://www.lesespuren.ch/list.php)
 
 [khanacademy](https://de.khanacademy.org/)
+
+[Amira-lesen](http://amira-lesen.de/)
