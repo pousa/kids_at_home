@@ -9,6 +9,14 @@ A curated list of activities for kids
 
 [SciShowKids](https://www.youtube.com/user/scishowkids/about)
 
+[kids Gardering](https://kidsgardening.org/)
+
+[CODE](https://studio.code.org/courses)
+
+[Kids nationalgeographic](https://kids.nationalgeographic.com/explore/science/science-lab/)
+
+[Indoor activities](https://family-budgeting.co.uk/50-fun-things-to-do-when-stuck-indoors-with-the-kids/?fbclid=IwAR2ELcQJw5krllVn7zL9U1Xy6qoIPoLbetx9X0fVRKMTnuyBQtqnHSPxtRQ)
+
 
 ## Portuguese
 
