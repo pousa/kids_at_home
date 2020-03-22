@@ -22,7 +22,7 @@ A curated list of activities for kids
 
 [Sportstunde](https://www.youtube.com/watch?v=q8Rl1VhxXbk)
 
-[Sing mit mir - KinderliederT](https://www.youtube.com/user/SingKinderlieder)
+[Sing mit mir - Kinderlieder](https://www.youtube.com/user/SingKinderlieder)
 
 [Tägliche Online-Lektionen](https://www.schlaumeier.online/)
 
