@@ -33,3 +33,5 @@ A curated list of activities for kids
 [khanacademy](https://de.khanacademy.org/)
 
 [Amira-lesen](http://amira-lesen.de/)
+
+[IXL](https://de.ixl.com/)
