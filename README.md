@@ -43,3 +43,9 @@ A curated list of activities for kids between 4y-8y.
 [Amira-lesen](http://amira-lesen.de/)
 
 [IXL](https://de.ixl.com/)
+
+[Minitheater Hannibal](https://www.youtube.com/results?search_query=minitheater+hannibal)
+
+[mit-kindern-lernen](https://www.mit-kindern-lernen.ch/)
+
+[Lerna und Tüftelmax](https://imlig.jimdofree.com/)
