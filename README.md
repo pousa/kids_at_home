@@ -1,5 +1,5 @@
 # kids_at_home
-A curated list of activities for kids
+A curated list of activities for kids between 4y-8y.
 
 ## English
 
