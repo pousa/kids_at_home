@@ -28,6 +28,8 @@ A curated list of activities for kids between 4y-8y.
 
 ## German
 
+[lernentrotzcorona](https://www.lernentrotzcorona.ch/Lernentrotzcorona)
+
 [Sportstunde](https://www.youtube.com/watch?v=q8Rl1VhxXbk)
 
 [Sing mit mir - Kinderlieder](https://www.youtube.com/user/SingKinderlieder)
