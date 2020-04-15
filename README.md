@@ -51,3 +51,7 @@ A curated list of activities for kids between 4y-8y.
 [mit-kindern-lernen](https://www.mit-kindern-lernen.ch/)
 
 [Lerna und Tüftelmax](https://imlig.jimdofree.com/)
+
+[Kikri](https://read.bookcreator.com/kXSyB9WuTnbaCxwU8TOyUZnrTrg1/Fp45xCvNTmibxGa3eZxg5w)
+
+[Teachen](https://teachen.ch/)
