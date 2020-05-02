@@ -26,6 +26,11 @@ A curated list of activities for kids between 4y-8y.
 
 [Palavra Cantada](https://www.youtube.com/user/palavracantadatube)
 
+[Sesin](https://coronavirus.rj.gov.br/wp-content/uploads/2020/03/corona_virus_criancas-3.pdf)
+
+[Corona Virus](https://www.bbc.com/portuguese/geral-52160207)
+
+
 ## German
 
 [lernentrotzcorona](https://www.lernentrotzcorona.ch/Lernentrotzcorona)
